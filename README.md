@@ -1,3 +1,3 @@
 # burger-DONE-
- my trainings on school
+This project made with ProWEB school
  

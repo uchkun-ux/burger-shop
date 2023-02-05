@@ -1,3 +1,3 @@
 # burger-shop
-This project made with ProWEB school
+This pet project made with ProWEB school use vanilla javascript
  
